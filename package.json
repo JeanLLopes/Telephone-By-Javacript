@@ -1,0 +1,11 @@
+{
+  "name": "telefhone-by-javascript",
+  "version": "1.0.0",
+  "description": "make calls for your cellphone by javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Lopes",
+  "license": "ISC"
+}
